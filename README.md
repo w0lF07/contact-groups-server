@@ -1,4 +1,5 @@
 # contact-groups-server
+[![Build Status](https://travis-ci.org/jboss-outreach/contact-groups-server.svg?branch=master)](https://travis-ci.org/jboss-outreach/contact-groups-server)
 
 ## Setting up the app
 1. Install [Node.js](https://nodejs.org)
