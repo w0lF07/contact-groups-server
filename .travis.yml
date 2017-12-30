@@ -1,6 +1,9 @@
 language: node_js
 
+
 sudo: enabled
 
+sudo: mongodb
+
 script:
-  - echo "Hello! This is Travis"
+   - echo "Hello! This is Travis"
