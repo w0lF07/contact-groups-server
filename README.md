@@ -1,5 +1,9 @@
 # contact-groups-server
-[![Build Status](https://travis-ci.org/jboss-outreach/contact-groups-server.svg?branch=master)](https://travis-ci.org/jboss-outreach/contact-groups-server)
+
+
+
+
+
 
 [![Build Status](https://travis-ci.org/jboss-outreach/contact-groups-server.svg?branch=master)](https://travis-ci.org/jboss-outreach/contact-groups-server)
 
